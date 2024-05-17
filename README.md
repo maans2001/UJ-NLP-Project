@@ -1,4 +1,5 @@
-# NLP Arabic Dialect Identification and Mext Word Prediction
+
+# NLP Arabic Dialect Identification and Next Word Prediction
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
@@ -20,9 +21,11 @@
 
 ## Project Overview
 
-This project includes two main applications:
+Welcome to the **NLP Arabic Dialect Identification and Next Word Prediction** project! This project leverages advanced natural language processing techniques to offer two main functionalities:
 1. **Next Word Prediction (Knowledge-Based)**: Uses an n-gram model to predict the next word in a given sentence with the MADAR dataset.
 2. **Arabic Dialect Identification (Machine Learning)**: Utilizes a BERT model with lexicon features to identify the Arabic dialect of a given text, leveraging the MADAR dataset.
+
+✨ **Experience the project live on [Streamlit](https://uj-nlp-project-maan-sulaimani.streamlit.app/)!** ✨
 
 ## Features
 - Next Word Prediction using n-gram model
@@ -92,7 +95,10 @@ Contributions are welcome! Please fork this repository and submit a pull request
 5. Open a Pull Request
 
 ## License
-Distributed under the MIT License. See \`LICENSE.txt\` for more information.
+Distributed under the MIT License.
+
+## Contact
+For any inquiries or feedback, feel free to reach out!
 
 ## Acknowledgments
 - [MADAR Project](http://madar.camel-lab.com/)
