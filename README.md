@@ -61,7 +61,7 @@ Welcome to the **NLP Arabic Dialect Identification and Next Word Prediction** pr
 2. Navigate to the project directory and make the script executable:
     ```sh
     chmod +x run.sh
-    ./run.sh
+    ./run.sh # use run_macosx.sh if you're on a mac machine
     ```
 
 ## Usage
