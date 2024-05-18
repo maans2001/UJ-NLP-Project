@@ -43,12 +43,8 @@ Welcome to the **NLP Arabic Dialect Identification and Next Word Prediction** pr
 ### Instructions
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your_username/Project-Name.git
+    git clone https://github.com/maans2001/UJ-NLP-Project
     cd UJ-NLP-Project
-    ```
-2. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
     ```
 
 ## How to Run
